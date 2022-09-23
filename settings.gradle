@@ -1,0 +1,2 @@
+rootProject.name = "ImeDemo"
+include ':app'
